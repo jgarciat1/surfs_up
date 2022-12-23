@@ -1,7 +1,11 @@
 # surfs_up
 ### Overview
-The reason for this analysis was to find out if the proposed ice cream business by W. Avy would be sustainable year-round. We did this by finding the temperature data for the months of June and December in Oahu, Hawaii. 
+The reason for this analysis was to find out if the proposed ice cream business by W. Avy would be sustainable year-round. We did this by finding the temperature data for the months of June and December in Oahu, Hawaii. Below are the results.
 ### Results
+
+![June Data](https://github.com/jgarciat1/surfs_up/blob/main/june_temps.png)
+![December Data](https://github.com/jgarciat1/surfs_up/blob/main/december_temps.png)
+
 - First, we analyzed the month of June. After running a query and using the descirbe() function, we were able to get the results for the month. The average temperature for the month of June was 74.94 degrees. The high for the month was 85 degrees while the lowest recorded temperature was 64 degrees. However, I think 64 degrees might have been recorded at night or on poor weather days, as I find it hard to believe that Hawaii would be 64 degrees in the middle of summer. The average of 74.94 degrees seems more accurate as a day-to-day average. 
 
 - Second, we analyzed the monnth of December. After running a query and using the describe() function, we were able to get the results for the month. The average temperature for the month of December was 71 degrees. The high of the month was 83 degrees while the lowest recorded temperature was 56 degrees, agaain, possibly during the night or bad weather days.
